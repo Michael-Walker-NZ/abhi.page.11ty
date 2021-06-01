@@ -1,37 +1,37 @@
-title: abhi.page
+title: MOEB.page
 intro_prefix: Hi, I’m
-about: I’m a fullstack developer. I ♥ efficient architecture & clean design. (he/him)
-description: Abhishek's personal website & blog. I write articles & notes on technology and software development.
+about: I’m a structural/mechanical engineer.
+description: Mike's personal website & blog. I write articles & notes on engineering and mishaps into web development.
 
-display_name: Abhishek
+display_name: Mike
 name_audio: /assets/audio/abhishek_hi.mp3
-author: Kumar Abhishek
-github_current_repo: https://github.com/manustays/abhi.page.11ty
-github_main_branch: https://github.com/manustays/abhi.page.11ty/tree/main
+author: Mike Walker
+github_current_repo: https://github.com/michael-walker-nz/
+github_main_branch: https://github.com/michael-walker-nz/MOEB.page.11ty/tree/main
 
 sections:
   feed:
-    title: Notes on Technology and Software Development
+    title: Notes on Structural Engineering (mostly) and Web Development
   notes:
     label: Notes
     crumb: notes
-    subtitle: Short notes on technology and coding. My second brain.
-    description: A collection of notes and recipes on technology, coding and software development. My second brain.
+    subtitle: Short notes on technical structural engineering things.
+    description: A collection of notes on engineering.
   blog:
     label: Blog
     crumb: blog
     subtitle:
-    description: Articles on technology and software development.
+    description: Articles and thoughts on engineering. Not peer reviewed!.
 
 
 #### WebMentions (How to setup: https://sia.codes/posts/webmentions-eleventy-in-depth)
 webmentions:
-  domain: abhi.page
+  domain: MOEB.page
   # Setup WEBMENTION_IO_TOKEN in environment variables (see .env.example)
 
 #### SEO & Social...
 image: /assets/img/abhi-bw.jpg
-keywords: blog, notes, developer, technology, coding, resume, portfolio, abhishek, abhiweb
+keywords: blog, notes, engineer, structural, temporary works, low-damage, resilience
 twitter_handle: '@abhiweb'
 
 social_profiles:
